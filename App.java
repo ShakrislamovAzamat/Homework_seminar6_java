@@ -3,7 +3,7 @@ package homework;
 import java.util.HashSet;
 import java.util.Set;
 
-public class App {
+public class Laptop_Main {
     public static void main(String[] args) throws Exception {
         // Создание объектов класса Laptop
         Laptop laptop1 = new Laptop("HP Pavilion x360", 15, 512,
